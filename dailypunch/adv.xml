@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>~/imgs/b1.jpg</ImageUrl>
+		<AlternateText>click to Open Dmat account..</AlternateText>
+		<NavigateUrl>https://zerodha.com/open-account/</NavigateUrl>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/imgs/b2.jpg</ImageUrl>
+		<AlternateText>click to Open Dmat account..</AlternateText>
+		<NavigateUrl>https://www.angelone.in/open-demat-account</NavigateUrl>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/imgs/b3.jpg</ImageUrl>
+		<AlternateText>click to Open Dmat account..</AlternateText>
+		<NavigateUrl>https://www.motilaloswal.com/open-demat-account/</NavigateUrl>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/imgs/b4.jpg</ImageUrl>
+		<AlternateText>click to Open Dmat account..</AlternateText>
+		<NavigateUrl>https://allinone.hdfcsec.com/lp/open-trading-account</NavigateUrl>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/imgs/b5.jpg</ImageUrl>
+		<AlternateText>click to Open Dmat account..</AlternateText>
+		<NavigateUrl>https://groww.in/open-demat-account</NavigateUrl>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/imgs/b6.jpg</ImageUrl>
+		<AlternateText>click to Open Dmat account..</AlternateText>
+		<NavigateUrl>https://upstox.com/open-demat-account/</NavigateUrl>
+	</Ad>
+</Advertisements>

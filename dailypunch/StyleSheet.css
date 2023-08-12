@@ -1,0 +1,151 @@
+﻿body {
+    
+}
+.p{
+    font-size:1.25rem;
+    line-height:1.8rem;
+}
+
+.flex{
+    display:flex;
+    height: 500px;
+}
+.menu_style{
+    margin-left: 30px;
+}
+.navigation{
+    position:sticky;
+    top:1px;
+  
+}
+.content_place_holder{
+    gap:10px;
+}
+.social_media_links{
+    width:100%;
+}
+.main{
+    flex-direction:column;
+    margin-left:20px;
+    width: 98%;
+    height: 2621px;
+}
+.text {
+    line-height: 1.1em;
+    font-size: 90px;
+    color: rgb(0,151,58);
+    width: 596px;
+    padding-top: 40px;
+    float: left;
+    height: 353px;
+}
+.div_right_text {
+    line-height: 1.1em;
+    font-size: 90px;
+    color: #4b86b4;
+    padding-top: 60px;
+    text-align: center;
+    padding-top: 40px;
+    float: right;
+}
+.c_us_button {
+    border-style: outset;
+    border-radius: 25px;
+    font-size: 25px;
+    font-weight: bold;
+    width: 239px;
+    padding-bottom: 0px;
+    margin-left: 320px;
+    margin-top: 30px;
+    height: 35px;
+    line-height: 1.4em;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.22);
+}
+
+a.c_us {
+    color: #4b86b4;
+}
+a.c_us:link {
+    text-decoration: none;
+}
+a.c_us:hover {
+    text-decoration: underline; 
+    }
+.div_right:hover .overlay {
+    opacity: 1;
+    background-color: rgb(255,255,255);
+    border: solid;
+}
+.overlay {
+    opacity: 0;
+    transition: .5s ease;
+    float: right;
+    width: 871px;
+    height: 482px;
+}
+.title {
+    font-size: 40px;
+    line-height: 1.6em;
+    text-align: center;
+    letter-spacing: 0.55em;
+    background-color: #03396C;
+    color: #E7EFF6;
+}
+.about_banner {
+    background-image: url('imgs/about-banner.jpg');
+    object-fit: cover;
+    border-top: 5px solid #cfb53b;
+    height: 319px;
+    background-size: cover;
+    position: relative;
+}
+.about_block {
+    position: relative;
+    width: 810px;
+    margin: 0 auto;
+    top: 0px;
+    left: 0px;
+    height: 327px;
+}
+#content{
+    margin-top: 250px;
+}
+    #content .white-arrow {
+        width: 810px;
+        height: 39px;
+        margin: 0 auto;
+        display: block;
+        background-image: url('imgs/white-arrow.png');
+        position: relative;
+        overflow: hidden;
+    }
+#content-inner {
+    background: #fff;
+    padding: 15px 25px;
+}
+.totop {
+   display: block;
+   position: fixed;
+   bottom: 40px;
+}
+.exchanges {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.admin_title{
+    text-align:center;
+}
+.contact_left {
+    color: #088F8F;
+    font-size: 18px;
+    margin: 0 0 5px 140px;
+    font-weight: 700;
+}
+#admin_login:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.22);
+}
+.h1{
+    font-size: 30px;
+}
